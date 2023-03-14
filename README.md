@@ -1,5 +1,5 @@
 # Simple-Quote-Website
-A Simple Quote Website, made with html and css
+A Simple Quote Website, written in html and css
 
 
 Just clone the repo and use it ! <br/>
